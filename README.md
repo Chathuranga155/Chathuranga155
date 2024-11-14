@@ -11,7 +11,7 @@
 
 <p align="left"  style="margin-right:10px; "> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuranga155" alt="chathuranga155" /></a> </p>
 
-<img align="right" alt="Coding"  width="400" src="ttps://www.gdatasoftware.com/fileadmin/web/general/images/content/vm_security/Iso-Admin-VM-Schutz.png">
+<img align="right" alt="Coding"  width="400" src="https://github.com/user-attachments/assets/29381e52-d3e1-46e9-95a6-8c3c127ddec9">
 
 - 🔭 I’m currently working on ** Technology Challenge Competition **
 
