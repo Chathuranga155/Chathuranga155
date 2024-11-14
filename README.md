@@ -2,7 +2,7 @@
 <!--![logo]() -->
 
 <h1 align="center">Hi 👋, I'm Chathuranga Bandara</h1>
-<h3 align="center">Passionate web developer and data enthusiast skilled in ML, DL, and DevOps, creating innovative, data-driven web solutions.</h3>
+<h3 align="center">Passionate web developer and data enthusiast skilled in AI, ML, and DevOps, creating innovative, data-driven web solutions.</h3>
 
 
 
