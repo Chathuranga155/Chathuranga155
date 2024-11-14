@@ -45,5 +45,6 @@
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=chathuranga155&show_icons=true&locale=en" alt="chathuranga155" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuranga155&" alt="chathuranga155" /></p>
-</div>
+<p><img align="" src="https://github.com/user-attachments/assets/29381e52-d3e1-46e9-95a6-8c3c127ddec9" alt="chathuranga155" /></p>
+
+
