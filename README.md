@@ -11,7 +11,7 @@
 
 <p align="left"  style="margin-right:10px; "> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuranga155" alt="chathuranga155" /></a> </p>
 
-<img align="right" alt="Coding"  width="400" src="https://github.com/user-attachments/assets/29381e52-d3e1-46e9-95a6-8c3c127ddec9">
+<img align="right" alt="Coding"  width="400" src="https://github.com/user-attachments/assets/2742d68c-e284-463e-8811-58c4aa2ff527">
 
 - 🔭 I’m currently working on ** Technology Challenge Competition **
 
@@ -44,7 +44,5 @@
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuranga155&show_icons=true&locale=en&layout=compact" alt="chathuranga155" /></p>
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=chathuranga155&show_icons=true&locale=en" alt="chathuranga155" /></p>
-
-<p><img align="" src="https://github.com/user-attachments/assets/29381e52-d3e1-46e9-95a6-8c3c127ddec9" alt="chathuranga155" /></p>
 
 
